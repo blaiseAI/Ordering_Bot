@@ -1,6 +1,6 @@
 # Coffee Ordering Bot Prototype
 This is an ordering system using Twilio API, Using SMS.
-This is a beta version, but some of the features are working.
+This is a beta version, but most of the features are working.
 # Instructions
 ```
 Twilio Number: 587-855-6656
